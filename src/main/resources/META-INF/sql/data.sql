@@ -1,0 +1,2 @@
+insert into Location (address, codePosti, id) values ('Tehran', '1234567890', 1);
+insert into Employee (codeMelli, firstName, lastName, location_id, melliat, id) values ('1234567890', 'Javad', 'Javadi', 1, 'IRAN', 1);
